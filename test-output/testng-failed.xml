@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.calc.tests.calculatorFunction">
+        <methods>
+          <include name="validate" invocation-numbers="14 15 16 17 18 19 20 21"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.calc.tests.calculatorFunction -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

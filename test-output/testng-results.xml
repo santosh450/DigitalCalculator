@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20118" started-at="2020-04-19T21:18:57Z" finished-at="2020-04-19T21:19:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20118" started-at="2020-04-19T21:18:57Z" finished-at="2020-04-19T21:19:17Z">
+      <class name="com.calc.tests.calculatorFunction">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="setUp" is-config="true" duration-ms="12179" started-at="2020-04-20T02:48:57Z" finished-at="2020-04-20T02:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="542" started-at="2020-04-20T02:49:10Z" data-provider="abc" finished-at="2020-04-20T02:49:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="369" started-at="2020-04-20T02:49:11Z" data-provider="abc" finished-at="2020-04-20T02:49:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MUL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="364" started-at="2020-04-20T02:49:11Z" data-provider="abc" finished-at="2020-04-20T02:49:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SUB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="372" started-at="2020-04-20T02:49:11Z" data-provider="abc" finished-at="2020-04-20T02:49:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="400" started-at="2020-04-20T02:49:12Z" data-provider="abc" finished-at="2020-04-20T02:49:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="377" started-at="2020-04-20T02:49:12Z" data-provider="abc" finished-at="2020-04-20T02:49:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="345" started-at="2020-04-20T02:49:13Z" data-provider="abc" finished-at="2020-04-20T02:49:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="328" started-at="2020-04-20T02:49:13Z" data-provider="abc" finished-at="2020-04-20T02:49:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MUL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="363" started-at="2020-04-20T02:49:13Z" data-provider="abc" finished-at="2020-04-20T02:49:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SUB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="387" started-at="2020-04-20T02:49:14Z" data-provider="abc" finished-at="2020-04-20T02:49:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="367" started-at="2020-04-20T02:49:14Z" data-provider="abc" finished-at="2020-04-20T02:49:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[110]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="343" started-at="2020-04-20T02:49:14Z" data-provider="abc" finished-at="2020-04-20T02:49:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[120]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="341" started-at="2020-04-20T02:49:15Z" data-provider="abc" finished-at="2020-04-20T02:49:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="367" started-at="2020-04-20T02:49:15Z" data-provider="abc" finished-at="2020-04-20T02:49:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MUL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="240" started-at="2020-04-20T02:49:15Z" data-provider="abc" finished-at="2020-04-20T02:49:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="238" started-at="2020-04-20T02:49:16Z" data-provider="abc" finished-at="2020-04-20T02:49:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="237" started-at="2020-04-20T02:49:16Z" data-provider="abc" finished-at="2020-04-20T02:49:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="240" started-at="2020-04-20T02:49:16Z" data-provider="abc" finished-at="2020-04-20T02:49:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MUL]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="221" started-at="2020-04-20T02:49:16Z" data-provider="abc" finished-at="2020-04-20T02:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SUB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="274" started-at="2020-04-20T02:49:17Z" data-provider="abc" finished-at="2020-04-20T02:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="208" started-at="2020-04-20T02:49:17Z" data-provider="abc" finished-at="2020-04-20T02:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ADD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="validate(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.calc.tests.calculatorFunction@53b32d7]" name="validate" duration-ms="230" started-at="2020-04-20T02:49:17Z" data-provider="abc" finished-at="2020-04-20T02:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DIV]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+      </class> <!-- com.calc.tests.calculatorFunction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

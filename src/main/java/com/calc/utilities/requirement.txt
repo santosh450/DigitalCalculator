@@ -1,0 +1,9 @@
+Exercise details - 
+Prepare an automation script using selenium to perform maths operation on a calculator.
+User should prepare an excel having 4 columns - value1, value2, operation, output
+operations - ADD, MUL, SUB, DIV
+After reading value1 from excel , the script should navigate to https://www.calculator.net/ and click the number.
+After reading value2 from excel , the script should navigate to https://www.calculator.net/ and click the number.
+After reading operation from excel , the script should navigate to https://www.calculator.net/ and on the operation and press = button.
+The output should be written back to excel in 4th column.
+Note - The code should handle both single digit and double digit operation. ( not more than 2 digit values )
